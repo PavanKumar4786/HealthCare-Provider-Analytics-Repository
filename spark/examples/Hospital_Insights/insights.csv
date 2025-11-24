@@ -1,0 +1,10 @@
+Insight,Apollo_Value,KIMS_Value,Conclusion
+Patient Volume,1712,1964,KIMS handles 14.72% more patients than Apollo
+Dermatology Readmissions,99,93,Dermatology is the only department where Apollo has higher readmissions
+Cost Variance,1702561465.437273,1733206514.7248757,Apollo has a more stable cost distribution
+Apollo Min Cost,5018.41,,
+Apollo Max Cost,149854.75,,
+KIMS Min Cost,,5037.71,
+KIMS Max Cost,,149984.36,
+Discharge Rate (%),32.24,33.91,KIMS shows better overall recovery efficiency
+High-Cost Treatments (>1 Lakh),623,683,KIMS handles more high-cost (complex) cases
